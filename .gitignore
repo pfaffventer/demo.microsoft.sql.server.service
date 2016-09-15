@@ -10,6 +10,7 @@ ehthumbs.db
 .classpath
 gradle/
 target/
+jar/
 
 # Folder config file
 Desktop.ini
